@@ -2,10 +2,8 @@
 With MongoDB, you get same foundational capabilities you expect from any production database asset transactions ,comprehensive indexing, query optimization , and enterprise security, plus the flexibility of the document model.
 
 
-![Uploading Screenshot 2026-08-15 at 2.57.04 AM.png…]()
+<img width="2816" height="1536" alt="Gemini_Generated_Image_g9d8qrg9d8qrg9d8" src="https://github.com/user-attachments/assets/44e3f41e-a2ab-42eb-9ae2-b5b54eb469b5" />
 
-
-blob:null/7cb8e878-70f8-4c95-8ef6-9fa25313cf73
 
 
 
